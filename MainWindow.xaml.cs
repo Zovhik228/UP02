@@ -16,8 +16,10 @@ namespace UP02
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static Frame mainFrame = new Frame();
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
