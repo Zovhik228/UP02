@@ -11,7 +11,7 @@
   <ItemGroup>
     <Folder Include="Images\" />
     <Folder Include="Pages\Elements\" />
-    <Folder Include="Pages\Новая папка\" />
+    <Folder Include="Pages\Main\" />
   </ItemGroup>
 
 </Project>
